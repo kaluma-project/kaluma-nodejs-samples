@@ -1,7 +1,7 @@
 const mqtt = require('mqtt');
 
 const options = {
-  host: '192.168.0.11',
+  host: 'mqtt.kaluma.io',
   port: 1883,
   protocol: 'mqtt',
 };
